@@ -1,3 +1,86 @@
+/* General Wordpress Styling Starts */
+
 .page-header {
-display: none !important;
+display: none;
 }
+
+/* General Wordpress Styling Ends */
+
+/* General Elementor Styling Starts */
+
+
+/* General Elementor Styling Starts */
+
+/* Global Surecart Styling Starts */
+
+.alignwide {
+	max-width: 100%;
+	padding: 2% 12% 5% 12%;
+	margin: 0px auto !important;
+}
+
+.checkout {
+	max-width: 100%;
+	padding: 2% 12% 5% 12%;
+	margin: 0px auto !important;
+}
+
+.tab-group {
+	display: flex;
+	flex-flow: row wrap;
+	position: relative;
+	border: 1px solid transparent;
+	border-radius: 0px;
+	max-width: 100%;
+}
+
+.sc-columns {
+	gap: 100px !important;
+}
+
+@media only screen and (min-width: 700px) and (max-width: 1000px)  {
+
+		.sc-columns {
+	gap: 10px !important;
+}
+	
+	.checkout {
+		max-width: 100%;
+		padding: 0% 5% 10% 5%;
+		margin: 0px auto !important;
+	}
+
+	.alignwide {
+		max-width: 100%;
+		padding: 0% 5% 10% 5%;
+		margin: 0px auto !important;
+	}
+
+}
+
+@media only screen and (min-width: 10px) and (max-width: 700px)  {
+	
+	.sc-columns {
+	gap: 10px !important;
+}
+
+	.checkout {
+		max-width: 100%;
+		padding: 0% 1% 15% 1%;
+		margin: 0px auto !important;
+	}
+
+	.alignwide {
+		max-width: 100%;
+		padding: 0% 5% 15% 5%;
+		margin: 0px auto !important;
+	}
+
+	.wp-block-spacer {
+		height: 75px !important;
+	}
+
+}
+
+
+/* Global Surecart Styling Ends */
