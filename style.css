@@ -8,6 +8,18 @@ display: none;
 
 /* General Elementor Styling Starts */
 
+/* Icon Styling Starts */
+
+.elementor-icon-wrapper {
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+	align-items: center;
+	justify-content: center;
+}
+
+/* Icon Styling Ends */
 
 /* General Elementor Styling Starts */
 
