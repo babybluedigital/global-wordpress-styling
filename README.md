@@ -4,4 +4,4 @@ A custom css stylesheet used by all Baby Blue Digital site packages that include
 
 Each module is loaded on an WordPress Default page template.
 
-The raw css can be viewed here - https://babybluedigital.github.io/global-wordpress-stylesheet/style.css
+The raw css can be viewed here - https://babybluedigital.github.io/global-wordpress-styling/style.css
