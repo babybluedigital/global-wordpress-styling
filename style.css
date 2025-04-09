@@ -1,12 +1,23 @@
+/* ------ */
 /* ------------  UiCore Global Styling ------------ */
 
+/* Add Extra Margin to Back To Top */
 .uicore-back-to-top {
     bottom: 8em !important;
 }
-
 /* End */
 
+
+/* ------ */
 /* ------------  LatePoint Global Styling ------------ */
+
+/* Add Border Radius to Shortcode Blocks */
 .latepoint-resources-items-w .resource-item {
     border-radius: 12px !important;
 }
+
+/* Remove Margin From Shortcode Blocks */
+.latepoint-resources-items-w {
+    margin: 0px 0px;
+}
+/* End */
