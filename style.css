@@ -5,3 +5,8 @@
 }
 
 /* End */
+
+/* ------------  LatePoint Global Styling ------------ */
+.latepoint-resources-items-w .resource-item {
+    border-radius: 12px !important;
+}
